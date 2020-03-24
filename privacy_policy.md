@@ -58,13 +58,19 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
 
 **Policy Permission from World Health Organization(WHO)**
+
 We are referring "Critical preparedness, readiness and response actions for COVID-19" provided by WHO at below link
 https://www.who.int/publications-detail/critical-preparedness-readiness-and-response-actions-for-covid-19
 These guide lines are published under copy right "CC BY-NC-SA 3.0 IGO", which come under WHO’s open access.
+
 reference links: 
+
 https://www.who.int/about/who-we-are/publishing-policies/copyright
+
 https://creativecommons.org/licenses/by-nc/3.0/igo/
+
 As described in upper copyright link, I can share, adept and modify content, but I can't sell the information collected from WHO web page, I must distribute it on free of cost and I must provide attribution in policy page.
+
 Attribution: We are using Corona Virus preparedness, readiness and response actions published at WHO official website (as link attached above).
 
 **Contact Us**
